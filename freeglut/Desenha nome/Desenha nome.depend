@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1758927122 source:c:\users\1594356\documents\github\mod3d_aulas\freeglut\desenha nome\main.cpp
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<stdlib.h>
+	<cmath>
+
+1758926267 c:\users\1594356\documents\github\mod3d_aulas\freeglut\include\gl\glut.h
+	"freeglut_std.h"
+
+1758926267 c:\users\1594356\documents\github\mod3d_aulas\freeglut\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
